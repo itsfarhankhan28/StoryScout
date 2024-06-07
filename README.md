@@ -5,9 +5,11 @@ StoryScout is a dynamic and intuitive web platform designed for book enthusiasts
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/dn2ljrxzy/image/upload/v1717508499/StoryScout/ngmui2wqzjkykcw4ipnv.png)
+![App Screenshot](https://res.cloudinary.com/dn2ljrxzy/image/upload/v1717786674/BookShelf/xetmxstxd1wk0wx9jxor.png)
 
-![App Screenshot](https://res.cloudinary.com/dn2ljrxzy/image/upload/v1717508499/StoryScout/wdnb05ag73ur9yurk4zz.png)
+![App Screenshot](https://res.cloudinary.com/dn2ljrxzy/image/upload/v1717786673/BookShelf/mjbsmhaftiy6wy4weidm.png)
+
+![App Screenshot](https://res.cloudinary.com/dn2ljrxzy/image/upload/v1717786673/BookShelf/f0velk0hvndskwfjzw0n.png)
 
 
 ## Run Locally
@@ -15,7 +17,7 @@ StoryScout is a dynamic and intuitive web platform designed for book enthusiasts
 Clone the project
 
 ```bash
-  git clone https://github.com/itsfarhankhan28/BookShelf.git
+  git clone https://github.com/itsfarhankhan28/StoryScout.git
 ```
 
 Go to the project directory
